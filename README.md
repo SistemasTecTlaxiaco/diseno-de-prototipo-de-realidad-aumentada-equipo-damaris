@@ -1,4 +1,20 @@
 #   Bienvendo al Repositorio de Octocat 
+## Descripción del proyecto 
+## Objetivo General 
+## Objetivos Específicos 
+## Justificación 
+## Requisitos para la realidad aumentada 
+* Navegador Chrome  
+*Internet 
+
+## Instalación  local 
+### Librería pasos para realizar la instalación local.
+Npm installar  
+
+## Vídeo corto con DEMO de la RA. 
+## Equipo de desarrollo
+## Links de Librerias utilizadas 
+## Link del proyecto final 
 ![marcador jaci](https://user-images.githubusercontent.com/62117067/170419055-e866af10-a84e-430a-b85c-43aab17e14fd.jpeg)
 ## Presentación 
 Se inicia con nuestro objeto 3D de la mastoca de GitHub "Octocat", además de un video, incluido botones con funcionaliddes.
