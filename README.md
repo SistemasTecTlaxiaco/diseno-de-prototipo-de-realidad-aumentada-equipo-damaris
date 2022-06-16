@@ -32,6 +32,9 @@ Para el uso de la aplicación web, esta realidad aumentada debe permitir que el 
 Npm installar  
 
 ## Vídeo corto con DEMO de la RA. 
+
+https://user-images.githubusercontent.com/62117067/174189852-adcb3f28-0540-4f74-955f-56bfc3e7eb68.mp4
+
 ## Equipo de desarrollo
 | **Nombre** | **Rol** | 
   |------------|-----|
@@ -45,3 +48,7 @@ Npm installar
 * https://aframe.io/
 * https://www.zappar.com
 ## Link del proyecto final 
+
+http://hiukim.github.io/mind-ar-js-doc/samples/advanced.html
+
+
