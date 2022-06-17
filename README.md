@@ -19,7 +19,7 @@ Para el uso de la aplicación web, esta realidad aumentada debe permitir que el 
 ## Requisitos para la realidad aumentada 
 * Navegador Chrome (unicamente) 
 * Internet
-* Permiso para acceder a la camara  
+* Permiso para acceder a la camara y microfono
 * Marcador 
 
 ![logo_del_tecnologico_nuevo](https://user-images.githubusercontent.com/62117067/174324287-86ab22ff-1fa7-48a2-87c3-8fdebffd6dfa.png)
@@ -53,6 +53,9 @@ https://user-images.githubusercontent.com/62117067/174189852-adcb3f28-0540-4f74-
 ## Links de Librerias utilizadas 
 * https://aframe.io/
 * https://www.zappar.com
+* https://cdn.jsdelivr.net/gh/hiukim/mind-ar-js@1.1.4/dist/mindar-image.prod.js
+* https://cdn.jsdelivr.net/gh/hiukim/mind-ar-js@1.1.4/dist/mindar-image-aframe.prod.js
+* https://aframe.io/releases/0.8.0/aframe.min.js
 ## Link del proyecto final 
 
 http://hiukim.github.io/mind-ar-js-doc/samples/advanced.html
