@@ -22,11 +22,17 @@ Para el uso de la aplicación web, esta realidad aumentada debe permitir que el 
 * Permiso para acceder a la camara  
 * Marcador 
 
+![logo_del_tecnologico_nuevo](https://user-images.githubusercontent.com/62117067/174324287-86ab22ff-1fa7-48a2-87c3-8fdebffd6dfa.png)
+
+
 ## Instalación  local 
 ### Requisitos 
 * XAMPP 
 * Descargar nuestro repositorio.
 * Visual Code
+* Marcador 
+
+![logo_del_tecnologico_nuevo](https://user-images.githubusercontent.com/62117067/174324287-86ab22ff-1fa7-48a2-87c3-8fdebffd6dfa.png)
 
 ### Librería pasos para realizar la instalación local.
 Npm installar  
